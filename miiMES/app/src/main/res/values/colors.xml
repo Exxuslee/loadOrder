@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorActivity">#D3D3D3</color>
+    <color name="purple_500">#B02727</color>
+    <color name="deep_purple_500">#B79C3A</color>
+    <color name="indigo_500">#59B53F</color>
+    <color name="blue_500">#2155F3</color>
+    <color name="cyan_500">#BF00D4</color>
+    <color name="light_blue_500">#FFFFFF</color>
+</resources>

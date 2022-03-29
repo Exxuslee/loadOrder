@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">miiMES</string>
+    <string name="action_settings">Обновить регламент</string>
+
+    <string-array name="KB">
+        <item>КБ-1</item><item>КБ-2</item><item>КБ-3</item><item>КБ-5</item>
+        <item>КБ-6</item><item>КБ-7</item><item>КБ-8</item><item>КБ-9</item>
+    </string-array>
+
+    <string-array name="KM">
+        <item>КВ</item>
+        <item>УЗВ</item>
+        <item>ДМ</item>
+        <item>ЭВ</item>
+    </string-array>
+
+    <string-array name="KN00">
+        <item>1</item><item>2</item><item>3</item><item>4</item><item>5</item>
+        <item>6</item><item>7</item><item>8</item><item>9</item><item>10</item>
+        <item>11</item><item>12</item><item>13</item>
+    </string-array>
+
+    <string-array name="KN01">
+        <item>1</item><item>2</item><item>3</item>
+    </string-array>
+
+    <string-array name="KN02">
+        <item>1</item><item>2</item><item>3</item><item>4</item>
+    </string-array>
+
+    <string-array name="KN03">
+        <item>2</item><item>3</item><item>4</item><item>5</item>
+    </string-array>
+
+    <string-array name="KN05">
+        <item>6</item><item>7</item>
+    </string-array>
+
+    <string-array name="KN06">
+        <item>7</item><item>8</item>
+    </string-array>
+
+    <string-array name="KN07">
+        <item>9</item><item>10</item>
+    </string-array>
+
+    <string-array name="KN08">
+        <item>10</item><item>11</item>
+    </string-array>
+
+    <string-array name="KN09">
+        <item>12</item><item>13</item>
+    </string-array>
+
+
+    <string name="lblCurrentBake">Текущая загрузка бункеров:</string>
+    <string name="lblCurrentPech">Текущая печь:</string>
+    <string name="lblCurrentReglament">Очерёдность загрузки бункеров:</string>
+    <string name="lblNextBake">Следующая загрузка бункеров:</string>
+    <string name="lblLastBake">Последняя введенная печь:</string>
+    <string name="lblHistory">История выдачи:</string>
+
+    <string name="NowBake">888</string>
+    <string name="CurrentBake">888</string>
+    <string name="CurrentReglament">888</string>
+    <string name="NextBake">888</string>
+    <string name="LastBake">888</string>
+    <string name="CurrentPech">888</string>
+
+    <string name="uploadIn">УЗВ-%1$s\n%2$s\n%3$d</string>
+    <string name="updRegl">Регламент от\n%1$s</string>
+
+    <string name="btnDxx">Батарея -</string>
+    <string name="btnxDx">Печь —</string>
+    <string name="btnxxD">Печь -</string>
+    <string name="btnUxx">Батарея +</string>
+    <string name="btnxUx">Печь ++</string>
+    <string name="btnxxU">Печь +</string>
+    <string name="btnUpdReg">Обновить регламент</string>
+
+    <string name="currentBunker1">Текущий бункер №1</string>
+    <string name="nextBunker1">Следующий бункер №1</string>
+    <string name="nextBunker2">Следующий бункер №2</string>
+    <string name="nextBunker3">Следующий бункер №3</string>
+    <string name="currentBunker2">Текущий бункер №2</string>
+    <string name="currentBunker3">Текущий бункер №3</string>
+    <string name="trapezoid">Trapezoid</string>
+</resources>
